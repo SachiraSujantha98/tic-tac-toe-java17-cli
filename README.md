@@ -11,6 +11,8 @@
  - The game ends when a player wins or when there are no empty cells left (resulting in a draw).
 
  Starting the Game:
+ - Download and run the executable file
+    or
  - Run the Main class to start the game.
 
  Board Representation:
