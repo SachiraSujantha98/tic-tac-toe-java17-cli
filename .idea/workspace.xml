@@ -9,12 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e27cee4-7ec1-4240-acab-42097c398251" name="Changes" comment="Minor update">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tic_tac_toe_adv_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sachira/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sachira/game/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e27cee4-7ec1-4240-acab-42097c398251" name="Changes" comment="Added compiled TicTacToe.exe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +103,7 @@
       <workItem from="1730629366693" duration="2968000" />
       <workItem from="1730632429610" duration="99000" />
       <workItem from="1730633917119" duration="219000" />
-      <workItem from="1730640162488" duration="883000" />
+      <workItem from="1730640162488" duration="2028000" />
     </task>
     <task id="LOCAL-00001" summary="Tic-Tac-Toe CLI game">
       <option name="closed" value="true" />
@@ -126,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730631721761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added compiled TicTacToe.exe">
+      <option name="closed" value="true" />
+      <created>1730642186717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730642186717</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tic-Tac-Toe CLI game" />
     <MESSAGE value="Minor update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor update" />
+    <MESSAGE value="Added compiled TicTacToe.exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added compiled TicTacToe.exe" />
   </component>
 </project>
