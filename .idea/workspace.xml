@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e27cee4-7ec1-4240-acab-42097c398251" name="Changes" comment="Added compiled TicTacToe.exe" />
+    <list default="true" id="8e27cee4-7ec1-4240-acab-42097c398251" name="Changes" comment="Added compiled TicTacToe.exe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +105,7 @@
       <workItem from="1730629366693" duration="2968000" />
       <workItem from="1730632429610" duration="99000" />
       <workItem from="1730633917119" duration="219000" />
-      <workItem from="1730640162488" duration="2028000" />
+      <workItem from="1730640162488" duration="2395000" />
     </task>
     <task id="LOCAL-00001" summary="Tic-Tac-Toe CLI game">
       <option name="closed" value="true" />
@@ -129,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730642186717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added compiled TicTacToe.exe">
+      <option name="closed" value="true" />
+      <created>1730642228641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730642228641</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
