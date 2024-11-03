@@ -1,4 +1,4 @@
-/*
+
  * Tic-Tac-Toe CLI Game Instructions
  *
  * How to Play:
@@ -31,4 +31,4 @@
  *   - - -
  *
  * Enjoy playing Tic-Tac-Toe!
- */
+
